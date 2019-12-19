@@ -1,0 +1,11 @@
+Insert into funcionario values ('Jaime Rodrigues Araújo', 09878746402);
+
+INSERT INTO setor (Cod_S,Nome_S,Descricao) VALUES (setor_seq.Nextval, 'Logística', 'Setor de Logística se localiza em Petrolina e possui 10 funcionarios' );
+
+INSERT INTO cargo (Nome_C,Cod_C,Valor_base,Valor_horaTrab,Carga_horaria, vinculo) VALUES ('TI', cargo_seq.Nextval,  657.00 ,  5.47, 30 , 'Estagiário');
+
+Insert into funcionario_cargo values (1, 09878746402,   TO_DATE('10/10/2018','MM/DD/YYYY') ,null);
+
+Insert into funcionario_setor values (1, 09878746402,   TO_DATE('10/10/2018','MM/DD/YYYY') ,null);
+
+Insert into pagamento (Fk_pk_Cpf_F,Cod_P,Data_Pago) values (09878746402, pagamento_seq.NextVal, TO_DATE('10/1/2019','MM/DD/YYYY'));

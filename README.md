@@ -12,6 +12,10 @@ To execute the application open the "FolhaPagamentoInterface.jar":
 .\Jar\FolhaPagamentoInterface.jar"
 ```
 
+## UI
+
+<img src="https://github.com/jonascassiano/Payroll-JAVA/tree/master/FolhaPagamentoInterface/UI/HomeScreen.jpg" alt="Home" width="800"/> 
+
 ## Authors
 
 * **Jonas dos Santos** - [JonasCassiano](https://github.com/jonascassiano)

@@ -1,5 +1,7 @@
 ﻿# Payroll Application - Software Engineering Final Project
 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 Payroll Application using JAVA (User Interface + Algorithm) + Oracle SQL database (ojdbc)
 
 ## Getting Started
@@ -19,7 +21,7 @@ To execute the application open the "FolhaPagamentoInterface.jar":
 
 
 ## License
- 
-NON-COMMERCIAL 
+
+MIT
 
 FEDERAL UNIVERSITY OF SÃO FRANCISCO VALLEY - UNIVASF
